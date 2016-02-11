@@ -1,0 +1,27 @@
+_repo: The-Jesuit-Relations-and-Allied-Documents-Vol-V-Quebec-1632-1633_48562
+contributor:
+  creator:
+    editor:
+      agent_name: Thwaites, Reuben Gold
+      alias: Thwaites, R. G. (Reuben Gold)
+      birthdate: 1853
+      deathdate: 1913
+      gutenberg_agent_id: '33780'
+      url: http://www.gutenberg.org/2009/agents/33780
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Jesuit Relations and Allied Documents, Vol. V: Quebec, 1632-1633'
+url: http://www.gutenberg.org/ebooks/48562
