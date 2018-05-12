@@ -1,4 +1,5 @@
 _repo: The-Jesuit-Relations-and-Allied-Documents-Vol-V-Quebec-1632-1633_48562
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       deathdate: 1913
       gutenberg_agent_id: '33780'
       url: http://www.gutenberg.org/2009/agents/33780
+covers:
+- cover_type: archival
+  image_path: 48562-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48562#The-Jesuit-Relations-and-Allied-Documents-Vol-V-Quebec-1632-1633
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
